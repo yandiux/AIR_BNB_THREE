@@ -1,4 +1,4 @@
-# https://air-bnb-work4.onrender.com/api/v1/users
+# https://air-bnb-work4.onrender.com
 
 # Rutas
 
